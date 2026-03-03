@@ -1,0 +1,1 @@
+Ver banco_farmacia3.sql para estrutura do banco. Usuário: Nicolas Cristyan / Senha: 21deAgost@\n
